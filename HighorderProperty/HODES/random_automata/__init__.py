@@ -1,0 +1,1 @@
+from ..random_automata.generate import generate
